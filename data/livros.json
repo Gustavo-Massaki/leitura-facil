@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/",
+    "descricao": "Romance clássico da literatura brasileira."
+  },
+  {
+    "id": 2,
+    "titulo": "Iracema",
+    "autor": "José de Alencar",
+    "fonte": "Wikisource",
+    "link": "https://pt.wikisource.org/",
+    "descricao": "Obra importante do romantismo brasileiro."
+  }
+]

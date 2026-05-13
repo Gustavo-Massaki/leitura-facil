@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Leitura Fácil | Obras em Domínio Público</title>
+
+    <meta name="description" content="Acesso simples e gratuito a obras literárias em domínio público para estudantes e professores.">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <header class="header">
+        <h1>Leitura Fácil</h1>
+
+        <p>Escolha uma obra para ler ou baixar</p>
+
+        <a href="sobre.html" class="btn btn-header">
+            Sobre o projeto
+        </a>
+    </header>
+
+    <main class="container">
+
+        <input 
+            type="text"
+            id="busca"
+            placeholder="Buscar livro..."
+            onkeyup="filtrarLivros()"
+            class="search"
+        >
+
+        <div id="lista-livros" class="features">
+        </div>
+
+    </main>
+
+    <footer class="footer">
+        <p>Projeto acadêmico - Leitura Fácil</p>
+    </footer>
+
+    <script src="js/script.js"></script>
+
+</body>
+</html>

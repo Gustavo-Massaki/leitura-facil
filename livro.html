@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Leitura Fácil - Livro</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <header class="header">
+        <h1>Leitura Fácil</h1>
+        <p>Detalhes da obra</p>
+    </header>
+
+    <main class="container">
+
+        <div id="detalhes-livro" class="livro-detalhe">
+            <p>Carregando livro...</p>
+        </div>
+
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="index.html" class="btn">
+                Voltar
+            </a>
+        </div>
+
+    </main>
+
+    <footer class="footer">
+        <p>Projeto acadêmico - Leitura Fácil</p>
+    </footer>
+
+    <script>
+
+        async function carregarLivro() {
+
+            const params = new URLSearchParams(window.location.search);
+
+            const id = parseInt(params.get("id"));
+
+            const response = await fetch("data/livros.json");
+
+            const livros = await response.json();
+
+            const livro = livros.find(l => l.id === id);
+
+            const container = document.getElementById("detalhes-livro");
+
+            if (!livro) {
+                container.innerHTML = `
+                    <h2>Livro não encontrado</h2>
+                `;
+                return;
+            }
+
+            container.innerHTML = `
+                <h2>${livro.titulo}</h2>
+
+                <p>
+                    <strong>Autor:</strong>
+                    ${livro.autor}
+                </p>
+                
+                <p class="fonte">
+                    <strong>Fonte:</strong>
+                        ${livro.fonte}
+                </p>
+
+                <p>
+                    <strong>Descrição:</strong>
+                    ${livro.descricao}
+                </p>
+
+                <a href="${livro.link}" target="_blank" class="btn">
+                    Ler obra
+                </a>
+
+
+            `;
+        }
+
+        carregarLivro();
+
+    </script>
+
+</body>
+</html>
