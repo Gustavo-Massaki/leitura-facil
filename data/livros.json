@@ -4,15 +4,191 @@
     "titulo": "Dom Casmurro",
     "autor": "Machado de Assis",
     "fonte": "Domínio Público",
-    "link": "https://www.dominiopublico.gov.br/",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=2081",
     "descricao": "Romance clássico da literatura brasileira."
   },
   {
     "id": 2,
     "titulo": "Iracema",
     "autor": "José de Alencar",
-    "fonte": "Wikisource",
-    "link": "https://pt.wikisource.org/",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1844",
     "descricao": "Obra importante do romantismo brasileiro."
+  },
+  {
+    "id": 3,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1923",
+    "descricao": "Romance inovador e marco do realismo brasileiro."
+  },
+  {
+    "id": 4,
+    "titulo": "Quincas Borba",
+    "autor": "Machado de Assis",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1949",
+    "descricao": "Obra que explora ironia e crítica social."
+  },
+  {
+    "id": 5,
+    "titulo": "O Alienista",
+    "autor": "Machado de Assis",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1939",
+    "descricao": "Conto satírico sobre loucura e sociedade."
+  },
+  {
+    "id": 6,
+    "titulo": "Helena",
+    "autor": "Machado de Assis",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=2091",
+    "descricao": "Romance romântico com conflitos familiares."
+  },
+  {
+    "id": 7,
+    "titulo": "Senhora",
+    "autor": "José de Alencar",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1847",
+    "descricao": "Importante romance urbano do romantismo."
+  },
+  {
+    "id": 8,
+    "titulo": "Lucíola",
+    "autor": "José de Alencar",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1845",
+    "descricao": "Romance que aborda moralidade e sociedade."
+  },
+  {
+    "id": 9,
+    "titulo": "O Guarani",
+    "autor": "José de Alencar",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1843",
+    "descricao": "Clássico indianista da literatura brasileira."
+  },
+  {
+    "id": 10,
+    "titulo": "A Viuvinha",
+    "autor": "José de Alencar",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1852",
+    "descricao": "Romance curto do período romântico."
+  },
+  {
+    "id": 11,
+    "titulo": "O Cortiço",
+    "autor": "Aluísio Azevedo",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1723",
+    "descricao": "Principal obra naturalista brasileira."
+  },
+  {
+    "id": 12,
+    "titulo": "Casa de Pensão",
+    "autor": "Aluísio Azevedo",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1722",
+    "descricao": "Romance com forte crítica social."
+  },
+  {
+    "id": 13,
+    "titulo": "A Moreninha",
+    "autor": "Joaquim Manuel de Macedo",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=2023",
+    "descricao": "Um dos romances românticos mais conhecidos."
+  },
+  {
+    "id": 14,
+    "titulo": "Triste Fim de Policarpo Quaresma",
+    "autor": "Lima Barreto",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1867",
+    "descricao": "Crítica ao nacionalismo exagerado."
+  },
+  {
+    "id": 15,
+    "titulo": "Recordações do Escrivão Isaías Caminha",
+    "autor": "Lima Barreto",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1865",
+    "descricao": "Romance crítico sobre preconceito racial."
+  },
+  {
+    "id": 16,
+    "titulo": "Os Sertões",
+    "autor": "Euclides da Cunha",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1800",
+    "descricao": "Relato histórico e social sobre Canudos."
+  },
+  {
+    "id": 17,
+    "titulo": "O Ateneu",
+    "autor": "Raul Pompeia",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=2008",
+    "descricao": "Romance crítico sobre a vida escolar."
+  },
+  {
+    "id": 18,
+    "titulo": "Noite na Taverna",
+    "autor": "Álvares de Azevedo",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1734",
+    "descricao": "Coletânea de contos sombrios do ultrarromantismo."
+  },
+  {
+    "id": 19,
+    "titulo": "Navio Negreiro",
+    "autor": "Castro Alves",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1786",
+    "descricao": "Poema marcante contra a escravidão."
+  },
+  {
+    "id": 20,
+    "titulo": "Espumas Flutuantes",
+    "autor": "Castro Alves",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1785",
+    "descricao": "Importante coletânea poética brasileira."
+  },
+  {
+    "id": 21,
+    "titulo": "Primeiros Cantos",
+    "autor": "Gonçalves Dias",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1823",
+    "descricao": "Obra importante do romantismo brasileiro."
+  },
+  {
+    "id": 22,
+    "titulo": "Canção do Exílio",
+    "autor": "Gonçalves Dias",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=2112",
+    "descricao": "Um dos poemas mais famosos da literatura brasileira."
+  },
+  {
+    "id": 23,
+    "titulo": "Inocência",
+    "autor": "Visconde de Taunay",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=2014",
+    "descricao": "Romance regionalista brasileiro."
+  },
+  {
+    "id": 24,
+    "titulo": "A Escrava Isaura",
+    "autor": "Bernardo Guimarães",
+    "fonte": "Domínio Público",
+    "link": "https://www.dominiopublico.gov.br/pesquisa/DetalheObraForm.do?select_action=&co_obra=1775",
+    "descricao": "Romance abolicionista brasileiro."
   }
 ]
