@@ -18,7 +18,7 @@ function mostrarLivros(livros){
         div.innerHTML = `
             <h3>${livro.titulo}</h3>
             <p>${livro.autor}</p>
-            <a href="livro.html?id=${livro.id}" class="btn">Ver detalhes</a>
+            <a href="livro.html?id=${livro.id}" class="btn">Ver obra</a>
         `;
         container.appendChild(div)
     })

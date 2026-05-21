@@ -95,3 +95,27 @@ body {
   line-height: 1.6;
 }
 
+.intro p {
+  line-height: 1.7;
+}
+
+.card {
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+}
+
+@media (max-width: 600px) {
+
+  .card {
+    width: 100%;
+  }
+
+  .livro-detalhe h2 {
+    font-size: 28px;
+  }
+
+}
